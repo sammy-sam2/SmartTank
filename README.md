@@ -22,12 +22,10 @@ An Arduino-based automation system that monitors real-time water levels using an
 ## Circuit Diagram
 ![Circuit Diagram](circuit_diagram.png)
 
-*(Note: Ensure your uploaded circuit image is named `circuit_diagram.png`, or update the filename inside the parentheses above to match your uploaded file.)*
-
 ## Software & Libraries
 * **Programming Language:** C++ (Arduino IDE)
 * **Required Libraries:** 
-  * `LiquidCrystal.h` or `LiquidCrystal_I2C.h` *(keep whichever matches your code)*
+  *`LiquidCrystal_I2C.h`*
 
 ## How to Use
 1. Wire the components according to the circuit diagram above.
